@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ves{
+    display: flex;
+}
+
+.Conreiner{
+    width: 1369px;
+    height: -45px;
+    background: #000000;
+    margin-top: -20px;
+    
+}
+
+.nomberP{
+    font-size: 10px;
+    display: flex;
+}
+
+.nomber{
+    width: 500px;
+    height: 16px;    
+    margin-top: -95px; 
+    margin-left: 250px;
+    color: beige;
+    display: flex;
+}
+
+.RegP{
+    width: 217px;
+    height: 16px;
+    margin-top: -15px;
+    margin-left: 1008px;
+    font-size: 11px;
+    color: beige;
+    display: flex;
+}
+
+.LineUl{
+    width: 1369px;
+    height: 40px;
+    margin-top: -2px;
+    background-color: rgb(53, 50, 46);
+    display: flex;
+}
+
+.porten{
+    width: 104px;
+    height: 49px;
+    margin-top: 8px;
+    margin-left: 305px;
+    color: white;
+    display: flex;
+}
+
+.imgF{
+    width: 1369px;
+    height: 910px;
+    top: 124px;
+    gap: 0px;
+    opacity: 1; /* Убедитесь, что opacity не равен 0 */
+    background-image: url('./img/Rectangle 5 (1).png'); /* Исправлен путь */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    flex-wrap: wrap;
+}
+
+.logoLine{
+    width: 320px;
+    height: 320px;
+    margin-top: 132px;
+    margin-left: 500px;
+}
+
+.LoremText {
+    width: 730px;
+    height: 96px;
+    margin-top: 104px;
+    margin-left: 315px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    font-family: PT sans-serif;
+    text-underline-position: from-font;
+    color: white; 
+    font-weight: bold; /* Делает текст жирным */
+    text-transform: uppercase; 
+}
+
+.LoremText a {
+    background: rgba(255, 255, 255, 1);
+    text-decoration-skip-ink: none;
+}
+
+.LoremText a {
+    color: white; 
+    background: transparent;  
+    text-decoration-skip-ink: none;
+}
+
+.Sezon{
+    width: 683px;
+    height: 730px;
+    top: 934px;
+    background: rgba(0, 0, 0, 1);
+    display: flex;
+}
+
+.imgKatalog{
+    width: 683px;
+    height: 730px;
+    margin-top: -730px;
+    margin-left: 680px;
+    border: 1px 0px 0px 0px;
+    background-image: url('./img/new-collection.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Catalogbtn{
+    width: 683px;
+    height: 730px;
+    margin-top: -730px;
+    margin-left: 680px;
+}
+
+.h3text{
+    display: flex;
+    font-size: 36px;
+    line-height: 42.19px;
+    text-align: center;
+    color: #ffff
+}
+
+.h3div{
+    width: 398.17px;
+    height: 39px;
+    margin-top: 93px;
+    margin-left: 157.42px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.Linediv{
+    width: 111.12px;
+    height: 0px;
+    margin-top: 162px;
+    margin-left: -100.95px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.LineLogo{
+    color:#ffff;
+    display: flex;
+}
+
+.Time{
+    display: flex;
+
+}
+
+.Timecol1{
+    width: 240.75px;
+    height: 405px;
+    margin-top: 236px;
+    margin-left: -30.18px;
+    background-image: url('./img/Group\ 3.png');
+}
+
+.Timecol2{
+    width: 240.75px;
+    height: 405px;
+    margin-top: 236px;
+    margin-left: 366.18px;
+    background-image: url('./img/Group\ 4.png');
+}
+
+.Timecol3{
+    width: 240.75px;
+    height: 405px;
+    margin-top: 236px;
+    margin-left: 366.18px;
+    background-image: url('./img/Group\ 4.png');
+}
